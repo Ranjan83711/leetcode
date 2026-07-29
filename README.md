@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ranjan83711/leetcode/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Ranjan83711/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

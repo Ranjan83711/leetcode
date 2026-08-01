@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ranjan83711/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Ranjan83711/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ranjan83711/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ranjan83711/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ranjan83711/leetcode/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ranjan83711/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ranjan83711/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ranjan83711/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |

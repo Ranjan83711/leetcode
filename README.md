@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ranjan83711/leetcode/tree/master/0014-longest-common-prefix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ranjan83711/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ranjan83711/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |

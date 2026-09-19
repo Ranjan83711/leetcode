@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ranjan83711/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ranjan83711/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ranjan83711/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Ranjan83711/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Ranjan83711/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ranjan83711/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ranjan83711/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |

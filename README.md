@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ranjan83711/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjan83711/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ranjan83711/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ranjan83711/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ranjan83711/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ranjan83711/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ranjan83711/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ranjan83711/leetcode/tree/master/0075-sort-colors) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ranjan83711/leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Ranjan83711/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |

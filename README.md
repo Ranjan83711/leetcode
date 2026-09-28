@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ranjan83711/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ranjan83711/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ranjan83711/leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranjan83711/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Ranjan83711/leetcode/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ranjan83711/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ranjan83711/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranjan83711/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ranjan83711/leetcode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ranjan83711/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ranjan83711/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ranjan83711/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ranjan83711/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ranjan83711/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranjan83711/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Ranjan83711/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ranjan83711/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ranjan83711/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranjan83711/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ranjan83711/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ranjan83711/leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/Ranjan83711/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ranjan83711/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ranjan83711/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ranjan83711/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/Ranjan83711/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Ranjan83711/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ranjan83711/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranjan83711/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/Ranjan83711/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ranjan83711/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |

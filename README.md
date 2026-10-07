@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/Ranjan83711/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Ranjan83711/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Ranjan83711/leetcode/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ranjan83711/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
+| [0908-smallest-range-i](https://github.com/Ranjan83711/leetcode/tree/master/0908-smallest-range-i) |
 | [1903-largest-odd-number-in-string](https://github.com/Ranjan83711/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ranjan83711/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjan83711/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ranjan83711/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ranjan83711/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ranjan83711/leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/Ranjan83711/leetcode/tree/master/0908-smallest-range-i) |
 | [1903-largest-odd-number-in-string](https://github.com/Ranjan83711/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ranjan83711/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

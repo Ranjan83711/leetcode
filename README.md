@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ranjan83711/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Ranjan83711/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Ranjan83711/leetcode/tree/master/0908-smallest-range-i) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ranjan83711/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ranjan83711/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ranjan83711/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ranjan83711/leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ranjan83711/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ranjan83711/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Ranjan83711/leetcode/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ranjan83711/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ranjan83711/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Union-Find
 |  |

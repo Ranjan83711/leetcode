@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/Ranjan83711/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ranjan83711/leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Ranjan83711/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Ranjan83711/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ranjan83711/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ranjan83711/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ranjan83711/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Ranjan83711/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ranjan83711/leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Ranjan83711/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ranjan83711/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjan83711/leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Ranjan83711/leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Ranjan83711/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0908-smallest-range-i](https://github.com/Ranjan83711/leetcode/tree/master/0908-smallest-range-i) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ranjan83711/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Ranjan83711/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ranjan83711/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ranjan83711/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Ranjan83711/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ranjan83711/leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ranjan83711/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ranjan83711/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjan83711/leetcode/tree/master/0002-add-two-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Ranjan83711/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

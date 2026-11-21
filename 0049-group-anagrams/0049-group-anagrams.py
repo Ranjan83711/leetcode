@@ -1,9 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        group={}
+        ana={}
         for i in strs:
-            keys=''.join(sorted(i))
-            if keys not in group:
-                group[keys]=[]
-            group[keys].append(i)
-        return list(group.values())
+            key=''.join(sorted(i))
+            if key not in ana:
+                ana[key]=[]
+            ana[key].append(i)
+        return list(ana.values())
+
+
+        
